@@ -25,3 +25,9 @@ aa-status
 
 # EncryptionConfiguration
 https://kubernetes.io/docs/tasks/administer-cluster/encrypt-data/
+
+# Calico
+https://projectcalico.docs.tigera.io/security/kubernetes-network-policy
+
+# Etcd
+https://etcd.io/docs/v3.5/op-guide/security/
